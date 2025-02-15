@@ -333,3 +333,16 @@ h3 {
   color: #ddd;
   margin-bottom: 10px;
 }
+
+.scroll-down-gif {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.scroll-down-gif img {
+  width: 150px;
+  height: auto;
+}
